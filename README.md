@@ -4,6 +4,8 @@
 # dart-cheat-sheet
 A curated list of awesome stuff needed to get started with your flutter development journey
 
+![Book](https://www.programming-books.io/essential/dart/getting-started-with-dart-ae9c97e065fb42c4985598d4d57f9b0b)
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/temidtech/dart-cheat-sheet/master/LICENSE)
 
  ## Table of Contents
